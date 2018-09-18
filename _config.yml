@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Maurício Reis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Impassioned by technology, now a days I'm studying about Machine Learning. Here I want to expose some of my personal projects using programming languanges and eletronic."
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Programming and crazy things that I like so much."
   location         : "São Paulo, Brazil"
   email            :
   links:
