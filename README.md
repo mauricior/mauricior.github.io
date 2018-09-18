@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
@@ -243,3 +244,7 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2017 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+=======
+# mauricior.github.io
+My portfolio page
+>>>>>>> 8c878f4f0f857b93136265b724e33296b09ccc66
