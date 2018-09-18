@@ -104,26 +104,33 @@ author:
   avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my world! Here is the place that I want to show the technological things that I do on my free time."
   location         : "São Paulo, Brazil"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-        url: mailto:mauriciofsr@outlook.com.br
-  #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #    # url: "https://your-website.com"
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    # url: "https://twitter.com/"
-  #  - label: "Facebook"
-  #    icon: "fab fa-fw fa-facebook-square"
-  #    # url: "https://facebook.com/"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #      url: "https://github.com/mauricior/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  email            : "mauriciofsr@outlook.com.br"
+   uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "mauricior"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "mauriciofsr" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
 
 # Site Footer
 footer:
