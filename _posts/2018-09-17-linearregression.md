@@ -3,13 +3,15 @@ title: "Machine Learning Project: Using Linear Regression to Predict Some Stock 
 date: 2018-09-17
 tags: [machine learning, data science, regression]
 header:
-  image: "/images/p"
+  image: "/images/predictingstockprices/predicting.png"
 excerpt: "Machine Learning, Regression, Data Science"
 mathjax: "true"
 ---
 
-# Using Linear Regression to Predict Some Stock Prices of PETR4
 
-This was my first project applying **Machine Learning** to do something, I felt like when I started to programming my first lines of code, but once I ended I was very excited!
+This was my first project applying **Machine Learning** to do something, of course I won't be rich because of this algorithm, but it's so cool to see how the technology works.
 
-You can see the source code on: [link](https://github.com/mauricior)
+**Final work**
+<img src="{{ site.url }}{{ site.baseurl }}/images/predictingstockprices/predicting2.png" alt="linearly separable data">
+
+You can see the source code on: [link](https://github.com/mauricior/predictingstockprices)
