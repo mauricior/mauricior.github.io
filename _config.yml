@@ -102,13 +102,13 @@ analytics:
 author:
   name             : "Maurício Reis"
   avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Programming and crazy things that I like so much."
+  bio              : "Welcome to my world! Here is the place that I want to show the technological things that I do on my free time."
   location         : "São Paulo, Brazil"
   email            :
-  #links:
-  #  - label: "Email"
-  #    icon: "fas fa-fw fa-envelope-square"
-  #      url: mailto:mauriciofsr@outlook.com.br
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+        url: mailto:mauriciofsr@outlook.com.br
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #    # url: "https://your-website.com"
