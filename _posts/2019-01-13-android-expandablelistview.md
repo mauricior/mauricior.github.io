@@ -3,7 +3,7 @@ title: "Android: How to do an Expandable List View with groups and subgroups"
 date: 2019-01-13
 tags: [android, development, java]
 header:
-  image: "/images/nino-android/android-02.png"
+  image: "/images/golden-gate.jpg"
 excerpt: "Android, Java"
 mathjax: "true"
 ---
