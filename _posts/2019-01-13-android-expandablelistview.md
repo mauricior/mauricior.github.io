@@ -350,4 +350,4 @@ The final result you can see below.
 <img src="{{ site.url }}{{ site.baseurl }}/images/nino-android/android-02.png" alt="expandable list view">
 
 **References**
-[ExpandableListView Tutorial](https://www.androidhive.info/2013/07/android-expandable-list-view-tutorial/)
+[ExpandableListView Tutorial](https://www.androidhive.info/2013/07/android-expandable-list-view-tutorial/).
