@@ -14,6 +14,8 @@ Currently I’m working in a personal project using **Android**, my objective is
 So I need to use **Expandable List View** to list each “source” of money.  The final result and the tutorial
 you can see below.
 
+**The values shown are fictitious**
+
 **Expandable List closed**
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/nino-android/android-01.png" alt="expandable list view">

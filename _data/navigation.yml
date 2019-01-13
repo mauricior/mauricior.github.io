@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Android"
+    url: /android/
   - title: "Machine Learning"
     url: /machine-learning/
   # - title: "About"
