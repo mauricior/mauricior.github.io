@@ -10,7 +10,7 @@ mathjax: "true"
 
 The [Elastic Search](https://www.elastic.co) it's a open source search tool, that have the capability to handle large volumes of data on realtime. It's used by companies like Google, GitHub, Twitter, SoundCloud, Yelp and Foursquare, for example.
 
-It has been developed by Shay Bannon in 2010, the distributed search server it's based on [Apache Lucene](lucene.apache.org/core/) and developed on java, using a common interface - JSON over HTTP. It has clients to the main progamming languages and has been developed from scratch with the objective to be used and distributed on clusters. The scalable tool it's perfect to work with [BigData](https://pt.wikipedia.org/wiki/Big_data).
+It has been developed by Shay Bannon in 2010, the distributed search server it's based on [Apache Lucene](http://lucene.apache.org/core/) and developed on java, using a common interface - JSON over HTTP. It has clients to the main progamming languages and has been developed from scratch with the objective to be used and distributed on clusters. The scalable tool it's perfect to work with [BigData](https://pt.wikipedia.org/wiki/Big_data).
 
 One of the features most used it's the **filter**, that use cache to perform repeated searches. When performing a search that was already made before, the tool already knows where are the documents - which ensures a lot of speed to perform exact values searches.
 
